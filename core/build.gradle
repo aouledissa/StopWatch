@@ -3,8 +3,8 @@ plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.4.10'
 }
 
-group 'de.joyn'
-version '1.0-SNAPSHOT'
+group 'de.joyn.stopwatch'
+version '0.1-alpha'
 
 repositories {
     mavenCentral()
@@ -16,6 +16,7 @@ dependencies {
     testImplementation "com.google.truth:truth:1.1"
     testImplementation "io.mockk:mockk:1.10.2"
 }
+
 compileKotlin {
     kotlinOptions {
         jvmTarget = "1.8"
