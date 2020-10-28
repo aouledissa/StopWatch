@@ -1,3 +1,4 @@
 rootProject.name = 'stopwatch-parent'
 include 'core'
+include 'sample'
 
