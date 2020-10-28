@@ -1,3 +1,6 @@
 .idea/
 .gradle
 build/
+sample/
+core/gradle.properties
+gradle.properties

@@ -1,5 +1,0 @@
-package stopwatch
-
-fun main() {
-
-}
