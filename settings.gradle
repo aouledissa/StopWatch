@@ -1,4 +1,4 @@
 rootProject.name = 'stopwatch-parent'
-include 'core'
-include 'sample'
+include 'stopwatch-core'
+include 'stopwatch-sample'
 

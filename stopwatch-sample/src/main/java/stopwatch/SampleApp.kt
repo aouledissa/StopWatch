@@ -1,5 +1,4 @@
 package stopwatch
 
 fun main() {
-
 }
